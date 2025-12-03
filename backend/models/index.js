@@ -1,15 +1,15 @@
-import User from './user.js';
+import User from './User.js';
 import Buyer from './buyer.js';
 import Order from './order.js';
-import OrderItem from './orderItem.js';
+import OrderItem from './OrderItem.js';
 import SKU from './sku.js';
 import Inventory from './inventory.js';
 import Warehouse from './warehouse.js';
-import Shipment from './shipment.js';
+import Shipment from './Shipment.js';
 import Document from './document.js';
 import Transaction from './transaction.js';
 import AuditLog from './auditLog.js';
-import Quote from './quote.js';
+import Quote from './Quote.js';
 import ComplianceRule from './complianceRule.js';
 
 export {
